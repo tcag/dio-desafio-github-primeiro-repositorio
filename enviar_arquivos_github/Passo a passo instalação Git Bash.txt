@@ -1,0 +1,23 @@
+Link para downloada do Git Hub - https://git-scm.com/downloads
+
+Para clonar o repositorio do GitHub para dentro da pasta no computador  
+
+Crie uma pasta dentro do seu HD onde fará os commits
+
+Com o botão direito inicie o Git Bash Here dentro da pasta 
+
+Utilize o git clone https://github.com/tcag/dio-desafio-github-primeiro-repositorio.git
+
+Para acessar a pasta clonada do repósito GitHub dentro do Git Bash Hero
+
+cd * nome da pasta clonada para seu computador* a minha foi dio-desafio-github-primeiro-repositorio/
+
+clear - limpa a tela do bash para facilitar 
+
+git status - Para verificar status da pasta ( se existe alguma atualização que não foi enviada para o Git Hub) 
+
+git add . ou git -A - adiciona todas as pastas e ou arquivos que foram recentemente criado ou alterado.
+
+git commit -m "Inclusão das anotações do passo a passo de como criar e enviar os arquivos para o repositório GitHub"
+
+git push origin main - é possivel que solicite o usuario e senha é ou token casdastrado no Git
